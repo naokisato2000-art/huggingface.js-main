@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"esModuleInterop": true,
+		"module": "NodeNext",
+		"target": "ESNext",
+		"moduleResolution": "nodenext",
+		"noImplicitAny": true,
+		"strict": true,
+		"strictNullChecks": true,
+		"skipLibCheck": true,
+		"noImplicitOverride": true,
+		"declaration": true,
+		"declarationMap": true,
+		"outDir": "./dist",
+		"resolveJsonModule": true
+	},
+	"include": ["src", "test"],
+	"exclude": ["dist"]
+}

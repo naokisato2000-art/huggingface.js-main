@@ -1,0 +1,4 @@
+dist
+tapes.json
+src/vendor
+.tshy-build
